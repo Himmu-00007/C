@@ -15,7 +15,7 @@ int main() {
 
     amount = principle * pow(1 + rate / 100, time);
 
-    printf("Compound Annual Growth Amount = %.3f\n", amount);
+    printf("Compound Annual Growth Amount = %f\n", amount);
 
     return 0;
 }
