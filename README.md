@@ -1,2 +1,3 @@
 # C
-Hi! I'm Himmu from Nepal. Learning new things outta here!
+You can use all the programs of this particular repository for your study and self progress.
+Don't forget to stare my repo.
